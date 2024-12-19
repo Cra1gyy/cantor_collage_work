@@ -1,0 +1,73 @@
+.business_main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.business_content{
+    width: 70%;
+}
+
+.business_intro{
+    display: flex;
+    justify-content: center;
+}
+
+.business_intro_content{
+    margin-top: 2%;
+    width: 60%;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 16px black;
+}
+
+.business_services_flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.business_services{
+    margin-top: 10%;
+}
+
+.business_services_title h3{
+    text-decoration: underline;
+}
+
+.business_training{
+    margin-top: 5%;
+}
+
+.business_research{
+    margin-top: 5%;
+}
+
+.business_design{
+    margin-top: 5%;
+}
+
+.business_internships{
+    margin-top: 5%;
+}
+
+.business_sponsorship{
+    margin-top: 5%;
+}
+
+.business_whyPartner{
+    margin-top: 5%;
+}
+
+.business_whyPartner li{
+    margin-bottom: 2%;
+    width: 80%;
+}
+
+.business_getInTouch{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+

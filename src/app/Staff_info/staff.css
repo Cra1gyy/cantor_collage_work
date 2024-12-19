@@ -1,0 +1,60 @@
+.staff_main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.staff_content{
+    width: 60%;
+}
+
+.staff_title{
+    margin: 3% auto;
+    text-decoration: underline;
+}
+
+.staff_news{
+    margin: 3% auto;
+}
+
+.staff_academic{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_catering{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_finacial{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_infoService{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_marketing{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_personal{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}
+
+.staff_facilities{
+    margin: 3% auto;
+    padding-top: 1%;
+    border-top: 2px dotted black;
+}

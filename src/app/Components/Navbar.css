@@ -1,0 +1,39 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    background-color: rgba(82,62,13,255);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navLink {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin: 20px 12px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.navLink:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.welcomeText{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+@media screen and (max-width: 1300px){
+
+    .navBar{
+        margin: 0;
+    }
+}

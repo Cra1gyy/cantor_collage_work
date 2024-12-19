@@ -1,0 +1,45 @@
+h4{
+    text-decoration: underline;
+}
+
+.learning_main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.learning_content{
+    width: 80%;
+}
+
+.learning_title {
+    text-align: center;
+    width: 100%;
+}
+
+.learning_intro{
+    margin-top: 3%;
+}
+
+.learning_rules{
+    margin-top: 4%;
+    padding-top: 2%;
+    border-top: 2px dotted black;
+}
+
+.learning_facilities{
+    margin-top: 4%;
+    margin-bottom: 5%;
+    padding-top: 2%;
+    border-top: 2px dotted black;
+}
+
+.libary_img_content{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.libary_img{
+    border-radius: 10px;
+}

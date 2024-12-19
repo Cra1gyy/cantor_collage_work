@@ -1,0 +1,41 @@
+/* global.css */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  }
+
+footer{
+  display: flex;
+  justify-content: center;
+}
+
+.backgroundImg{
+  background-image: url(/Images/rotate_Img3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+header{
+  height: 400px;
+}
+
+.welcomeText{
+  padding-top: 100px;
+}
+
+.welcomeText_head{
+  padding: 1%;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: rgba(82,62,13,0.589);
+  color: rgb(255, 255, 255);
+}
+
+.logo_img{
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 15px;
+}
+
+

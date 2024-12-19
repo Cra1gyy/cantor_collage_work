@@ -1,0 +1,47 @@
+.contact_info_main{
+    text-align: center;
+    width: 100%;
+}
+
+.flex_content{
+    display: flex;
+    justify-content: center;
+}
+
+.grid_content {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    margin-bottom: 30px;
+}
+
+h4{
+    text-decoration: underline;
+    margin: 16px;
+}
+
+.location{
+    grid-column: 2 / 3;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 10px;
+    padding-bottom: 16px;
+
+}
+
+.location p{
+    margin: 2px;
+}
+
+.contact_info{
+    border: 2px solid black;
+    grid-column: 3 / 4;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 10px;
+    padding-bottom: 16px;
+}
+
+.contact_info p{
+    margin: 2px;
+}

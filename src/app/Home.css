@@ -1,0 +1,24 @@
+.home_content{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    margin-top: 2%;
+    width: 70%;
+}
+
+.inluded_facilities{
+    margin-bottom: 5%;
+}
+
+#rotate_img{
+    border-radius: 10px;
+}
+
+.rotate_img_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

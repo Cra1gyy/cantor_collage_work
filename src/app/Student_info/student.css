@@ -1,0 +1,118 @@
+.student_main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.student_content{
+    width: 90%;
+}
+
+.student_title{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.student_intro{
+    display: flex;
+    justify-content: center;
+}
+
+.student_intro_content{
+    margin-top: 2%;
+    width: 60%;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 16px black;
+}
+
+.student_facilaties{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.student_facilaties_content{
+    width: 80%;
+}
+
+.student_design{
+    margin-top: 5%;
+}
+
+.facilite_2_img{
+    display: flex;
+    justify-content: center;
+}
+
+.people1_img{
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.facilities_1_img{
+    display: flex;
+    justify-content: center;
+}
+
+.playstation_img{
+    border-radius: 10px;
+}
+
+.student_innovation{
+    margin-top: 5%;
+}
+
+.student_tech{
+    margin-top: 5%;
+}
+
+.student_colab{
+    margin-top: 5%;
+}
+
+.facilite_5_img{
+    display: flex;
+    justify-content: center;
+}
+
+.people2_img{
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.student_libary{
+    margin-top: 5%;
+}
+
+.student_hub{
+    margin-top: 5%;
+}
+
+.student_career{
+    margin-top: 5%;
+}
+
+.student_fitness{
+    margin-top: 5%;
+}
+
+.student_housing{
+    margin-top: 5%;
+}
+
+.student_experiance{
+    margin-top: 5%;
+}
+
+.facilite_11_img{
+    display: flex;
+    justify-content: center;
+}
+
+.map_img{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 5%;
+}
